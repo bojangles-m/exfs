@@ -1,0 +1,37 @@
+{
+  "name": "@bojangles/exfs",
+  "main": "build/index.min.js",
+  "version": "0.0.2",
+  "author": {
+    "name": "Bojan Mazej",
+    "email": "bojan.mazej@gmail.com"
+  },
+  "description": "Extends fs library",
+  "keywords": [
+    "fs",
+    "extfs",
+    "file",
+    "filesystem",
+    "utils",
+    "directory"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bojangles-m/exfs"
+  },
+  "bugs": {
+    "url": "https://github.com/bojangles-m/exfs/issues"
+  },
+  "homepage": "https://github.com/bojangles-m/exfs#readme",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "jest": "^26.4.2",
+    "prettier": "^2.1.2"
+  }
+}

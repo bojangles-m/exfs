@@ -1,0 +1,30 @@
+{
+  "input": "",
+  "output": "build",
+  "format": "cjs",
+  "babelHelpers": "bundled",
+  "exclude": [],
+  "version": "0.0.4",
+  "extensions": [
+    ".js"
+  ],
+  "packages": {
+    "lib": {
+      "type": "UNIVERSAL",
+      "entry": "@bojangles/exfs",
+      "name": "exfs",
+      "dir": "",
+      "inputFiles": [
+        "lib/index.js"
+      ],
+      "outputFiles": [
+        "index.js"
+      ],
+      "externals": [
+        "ncp",
+        "fs",
+        "path"
+      ]
+    }
+  }
+}
