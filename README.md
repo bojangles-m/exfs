@@ -1,11 +1,11 @@
-# ex-Fs
+# exfs
 
 A module extends build-in fs module and makes file system manipulation a bit easier.
 
 ## Install
 
 ```js
-$ npm i ex-fs
+$ npm i @bojangles/exfs
 ```
 
 ## Usage
