@@ -1,7 +1,7 @@
 {
   "name": "@bojangles/exfs",
   "main": "build/index.min.js",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "author": {
     "name": "Bojan Mazej",
     "email": "bojan.mazej@gmail.com"
